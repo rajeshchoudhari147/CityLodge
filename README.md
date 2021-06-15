@@ -5,6 +5,8 @@ Submission Date: 1st September 2019
 
 This assignment was a part of my acedemics
 
+Console application in Java Programming language which allows a hotel named City Lodge to manage the renting and maintenance of hotel rooms.
+
 Features : 
 
 - Add Room: The user (an employee of CityLodge) selects this option to create a new standard room or a
